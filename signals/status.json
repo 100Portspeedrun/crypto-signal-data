@@ -1,0 +1,18 @@
+{
+  "last_scrape": "2025-09-24T11:57:52.260322",
+  "active_signals": 6,
+  "terminated_signals": 3,
+  "symbols_active": [
+    "ETHUSDT",
+    "XRPUSDT",
+    "ADAUSDT",
+    "SOLUSDT",
+    "TRXUSDT",
+    "LINKUSDT"
+  ],
+  "symbols_terminated": [
+    "BTCUSDT",
+    "DOGEUSDT",
+    "LTCUSDT"
+  ]
+}

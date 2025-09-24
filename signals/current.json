@@ -1,0 +1,99 @@
+{
+  "signals": [
+    {
+      "signal_id": "5dfcf00ece4a",
+      "symbol": "ETHUSDT",
+      "direction": "LONG",
+      "entry_price": 4167.7,
+      "take_profit": 4216.9,
+      "stop_loss": 4106.2,
+      "timestamp": "2025-09-24T11:57:51.247209",
+      "processed": false
+    },
+    {
+      "signal_id": "aea7ae3db1fe",
+      "symbol": "XRPUSDT",
+      "direction": "LONG",
+      "entry_price": 2.851,
+      "take_profit": 2.89,
+      "stop_loss": 2.803,
+      "timestamp": "2025-09-24T11:57:51.338872",
+      "processed": false
+    },
+    {
+      "signal_id": "a299c7cf80f4",
+      "symbol": "ADAUSDT",
+      "direction": "SHORT",
+      "entry_price": 0.8151,
+      "take_profit": 0.8067,
+      "stop_loss": 0.8256,
+      "timestamp": "2025-09-24T11:57:51.436129",
+      "processed": false
+    },
+    {
+      "signal_id": "6ab6105c0863",
+      "symbol": "SOLUSDT",
+      "direction": "LONG",
+      "entry_price": 209.75,
+      "take_profit": 214.16,
+      "stop_loss": 204.24,
+      "timestamp": "2025-09-24T11:57:51.712156",
+      "processed": false
+    },
+    {
+      "signal_id": "bf9ae5a9280f",
+      "symbol": "TRXUSDT",
+      "direction": "SHORT",
+      "entry_price": 0.3386,
+      "take_profit": 0.3369,
+      "stop_loss": 0.3408,
+      "timestamp": "2025-09-24T11:57:52.032189",
+      "processed": false
+    },
+    {
+      "signal_id": "f8b8497e2247",
+      "symbol": "LINKUSDT",
+      "direction": "LONG",
+      "entry_price": 21.646,
+      "take_profit": 21.988,
+      "stop_loss": 21.219,
+      "timestamp": "2025-09-24T11:57:52.146448",
+      "processed": false
+    }
+  ],
+  "terminated_signals": [
+    {
+      "signal_id": "73b6d90363a3",
+      "symbol": "BTCUSDT",
+      "direction": "TERMINATE",
+      "entry_price": 0.0,
+      "take_profit": 0.0,
+      "stop_loss": 0.0,
+      "timestamp": "2025-09-24T11:57:51.153553",
+      "processed": false
+    },
+    {
+      "signal_id": "001d27ddb61b",
+      "symbol": "DOGEUSDT",
+      "direction": "TERMINATE",
+      "entry_price": 0.0,
+      "take_profit": 0.0,
+      "stop_loss": 0.0,
+      "timestamp": "2025-09-24T11:57:51.859769",
+      "processed": false
+    },
+    {
+      "signal_id": "3c4ae474e296",
+      "symbol": "LTCUSDT",
+      "direction": "TERMINATE",
+      "entry_price": 0.0,
+      "take_profit": 0.0,
+      "stop_loss": 0.0,
+      "timestamp": "2025-09-24T11:57:51.958426",
+      "processed": false
+    }
+  ],
+  "last_update": "2025-09-24T11:57:52.245355",
+  "total_signals": 6,
+  "terminated_count": 3
+}

@@ -1,0 +1,81 @@
+2025-09-24 11:30:28,506 - INFO - STARTING Cryptet Signal Scraper v3 - WITH TERMINATION DETECTION
+2025-09-24 11:30:28,507 - INFO - Target URL: https://cryptet.com/de/
+2025-09-24 11:30:28,507 - INFO - Target Symbols: BTCUSDT, ETHUSDT, XRPUSDT, ADAUSDT, SOLUSDT, DOGEUSDT, LTCUSDT, TRXUSDT, LINKUSDT
+2025-09-24 11:30:30,332 - INFO - Chrome Driver initialized successfully
+2025-09-24 11:30:30,333 - INFO - Starting scrape cycle...
+2025-09-24 11:30:37,539 - INFO - TERMINATED SIGNAL DETECTED: LTCUSDT
+2025-09-24 11:30:37,689 - INFO - Found 9 total signals
+2025-09-24 11:30:37,690 - INFO - Filtered to 9 relevant signals
+2025-09-24 11:30:37,692 - INFO - NEW SIGNALS: 9 found!
+2025-09-24 11:30:37,692 - INFO -   BTCUSDT LONG @ 106050.0 (TP: 184590.0, SL: 7880.0)
+2025-09-24 11:30:37,699 - INFO -   ETHUSDT LONG @ 4167.7 (TP: 4216.9, SL: 4106.2)
+2025-09-24 11:30:37,699 - INFO -   XRPUSDT LONG @ 2.851 (TP: 2.89, SL: 2.803)
+2025-09-24 11:30:37,699 - INFO -   ADAUSDT SHORT @ 0.8151 (TP: 0.8067, SL: 0.8256)
+2025-09-24 11:30:37,699 - INFO -   SOLUSDT LONG @ 209.75 (TP: 214.16, SL: 204.24)
+2025-09-24 11:30:37,699 - INFO -   DOGEUSDT LONG @ 0.2385 (TP: 0.2425, SL: 0.2335)
+2025-09-24 11:30:37,699 - INFO -   LTCUSDT TERMINATED
+2025-09-24 11:30:37,699 - INFO -   TRXUSDT SHORT @ 0.3386 (TP: 0.3369, SL: 0.3408)
+2025-09-24 11:30:37,700 - INFO -   LINKUSDT LONG @ 21.646 (TP: 21.988, SL: 21.219)
+2025-09-24 11:30:37,703 - INFO - Saved 8 active signals, 1 terminated
+2025-09-24 11:30:37,708 - CRITICAL - TERMINATED: LTCUSDT - Trading Bot should close position!
+2025-09-24 11:30:37,712 - WARNING - EMERGENCY: 1 positions should be closed immediately!
+2025-09-24 11:30:37,721 - CRITICAL - CLOSE NOW: LTCUSDT
+2025-09-24 11:30:37,722 - INFO - Next scrape in 19.3 minutes
+2025-09-24 11:36:33,214 - INFO - Scraper stopped by user
+2025-09-24 11:36:33,251 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /session/665f88fafba1e34f0878e78054a2b387
+2025-09-24 11:38:35,894 - INFO - STARTING Cryptet Signal Scraper v3 - WITH TERMINATION DETECTION
+2025-09-24 11:38:35,894 - INFO - Target URL: https://cryptet.com/de/
+2025-09-24 11:38:35,894 - INFO - Target Symbols: BTCUSDT, ETHUSDT, XRPUSDT, ADAUSDT, SOLUSDT, DOGEUSDT, LTCUSDT, TRXUSDT, LINKUSDT
+2025-09-24 11:38:37,700 - INFO - Chrome Driver initialized successfully
+2025-09-24 11:38:37,700 - INFO - Starting scrape cycle...
+2025-09-24 11:38:43,334 - INFO - TERMINATED SIGNAL DETECTED: BTCUSDT
+2025-09-24 11:38:43,958 - INFO - TERMINATED SIGNAL DETECTED: LTCUSDT
+2025-09-24 11:38:44,119 - INFO - Found 9 total signals
+2025-09-24 11:38:44,120 - INFO - Filtered to 9 relevant signals
+2025-09-24 11:38:44,120 - INFO - NEW SIGNALS: 9 found!
+2025-09-24 11:38:44,120 - INFO -   BTCUSDT TERMINATED
+2025-09-24 11:38:44,121 - INFO -   ETHUSDT LONG @ 4167.7 (TP: 4216.9, SL: 4106.2)
+2025-09-24 11:38:44,121 - INFO -   XRPUSDT LONG @ 2.851 (TP: 2.89, SL: 2.803)
+2025-09-24 11:38:44,121 - INFO -   ADAUSDT SHORT @ 0.8151 (TP: 0.8067, SL: 0.8256)
+2025-09-24 11:38:44,121 - INFO -   SOLUSDT LONG @ 209.75 (TP: 214.16, SL: 204.24)
+2025-09-24 11:38:44,121 - INFO -   DOGEUSDT LONG @ 0.2385 (TP: 0.2425, SL: 0.2335)
+2025-09-24 11:38:44,121 - INFO -   LTCUSDT TERMINATED
+2025-09-24 11:38:44,122 - INFO -   TRXUSDT SHORT @ 0.3386 (TP: 0.3369, SL: 0.3408)
+2025-09-24 11:38:44,122 - INFO -   LINKUSDT LONG @ 21.646 (TP: 21.988, SL: 21.219)
+2025-09-24 11:38:44,124 - INFO - Saved 7 active signals, 2 terminated
+2025-09-24 11:38:44,124 - CRITICAL - TERMINATED: BTCUSDT - Trading Bot should close position!
+2025-09-24 11:38:44,126 - CRITICAL - TERMINATED: LTCUSDT - Trading Bot should close position!
+2025-09-24 11:38:44,127 - WARNING - EMERGENCY: 2 positions should be closed immediately!
+2025-09-24 11:38:44,127 - CRITICAL - CLOSE NOW: BTCUSDT
+2025-09-24 11:38:44,128 - CRITICAL - CLOSE NOW: LTCUSDT
+2025-09-24 11:38:44,128 - INFO - Next scrape in 19.0 minutes
+2025-09-24 11:57:44,405 - INFO - Starting scrape cycle...
+2025-09-24 11:57:51,153 - INFO - TERMINATED SIGNAL DETECTED: BTCUSDT
+2025-09-24 11:57:51,859 - INFO - TERMINATED SIGNAL DETECTED: DOGEUSDT
+2025-09-24 11:57:51,958 - INFO - TERMINATED SIGNAL DETECTED: LTCUSDT
+2025-09-24 11:57:52,187 - INFO - Found 9 total signals
+2025-09-24 11:57:52,187 - INFO - Filtered to 9 relevant signals
+2025-09-24 11:57:52,189 - INFO - NEW SIGNALS: 9 found!
+2025-09-24 11:57:52,190 - INFO -   BTCUSDT TERMINATED
+2025-09-24 11:57:52,190 - INFO -   ETHUSDT LONG @ 4167.7 (TP: 4216.9, SL: 4106.2)
+2025-09-24 11:57:52,190 - INFO -   XRPUSDT LONG @ 2.851 (TP: 2.89, SL: 2.803)
+2025-09-24 11:57:52,192 - INFO -   ADAUSDT SHORT @ 0.8151 (TP: 0.8067, SL: 0.8256)
+2025-09-24 11:57:52,238 - INFO -   SOLUSDT LONG @ 209.75 (TP: 214.16, SL: 204.24)
+2025-09-24 11:57:52,242 - INFO -   DOGEUSDT TERMINATED
+2025-09-24 11:57:52,242 - INFO -   LTCUSDT TERMINATED
+2025-09-24 11:57:52,243 - INFO -   TRXUSDT SHORT @ 0.3386 (TP: 0.3369, SL: 0.3408)
+2025-09-24 11:57:52,244 - INFO -   LINKUSDT LONG @ 21.646 (TP: 21.988, SL: 21.219)
+2025-09-24 11:57:52,262 - INFO - Saved 6 active signals, 3 terminated
+2025-09-24 11:57:52,276 - CRITICAL - TERMINATED: BTCUSDT - Trading Bot should close position!
+2025-09-24 11:57:52,277 - CRITICAL - TERMINATED: DOGEUSDT - Trading Bot should close position!
+2025-09-24 11:57:52,278 - CRITICAL - TERMINATED: LTCUSDT - Trading Bot should close position!
+2025-09-24 11:57:52,292 - WARNING - EMERGENCY: 3 positions should be closed immediately!
+2025-09-24 11:57:52,295 - CRITICAL - CLOSE NOW: BTCUSDT
+2025-09-24 11:57:52,302 - CRITICAL - CLOSE NOW: DOGEUSDT
+2025-09-24 11:57:52,309 - CRITICAL - CLOSE NOW: LTCUSDT
+2025-09-24 11:57:52,315 - INFO - Next scrape in 19.0 minutes
+2025-09-24 11:58:30,897 - INFO - Scraper stopped by user
+2025-09-24 11:58:30,966 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None)': /session/8398e999e56a85bb0b25c580145fb27e
+2025-09-24 11:58:35,028 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000229D79A2210>: Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte')': /session/8398e999e56a85bb0b25c580145fb27e
+2025-09-24 11:58:39,104 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000229D79A2850>: Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte')': /session/8398e999e56a85bb0b25c580145fb27e
+2025-09-24 11:58:47,237 - INFO - Driver closed
